@@ -15,7 +15,7 @@ export default function Example() {
           <h1 id="message-heading" className="text-lg font-medium text-gray-900">
             Full-Stack Developer
           </h1>
-          <p className="mt-1 text-sm text-gray-500 overflow-hidden overflow-ellipsis">Checkout and Payments Team</p>
+          <p className="mt-1 text-sm text-gray-500 truncate">Checkout and Payments Team</p>
         </div>
 
         <div className="mt-4 flex items-center justify-between sm:mt-0 sm:ml-6 sm:flex-shrink-0 sm:justify-start">

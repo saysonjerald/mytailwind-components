@@ -30,7 +30,7 @@ import { BellIcon, MenuIcon, XIcon } from '@heroicons/react/outline'
 
 const user = {
   name: 'Floyd Miles',
-  email: 'floydmiles@example.com',
+  email: 'floy.dmiles@example.com',
   imageUrl:
     'https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
 }

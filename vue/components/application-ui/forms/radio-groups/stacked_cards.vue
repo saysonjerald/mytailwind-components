@@ -4,7 +4,7 @@
     <RadioGroupLabel class="sr-only"> Server size </RadioGroupLabel>
     <div class="space-y-4">
       <RadioGroupOption as="template" v-for="plan in plans" :key="plan.name" :value="plan" v-slot="{ checked, active }">
-        <div :class="[checked ? 'border-transparent' : 'border-gray-300', active ? 'ring-2 ring-indigo-500' : '', 'relative block bg-white border rounded-lg shadow-sm px-6 py-4 cursor-pointer sm:flex sm:justify-between focus:outline-none']">
+        <div :class="[checked ? 'border-transparent' : 'border-gray-300', active ? 'border-indigo-500 ring-2 ring-indigo-500' : '', 'relative block bg-white border rounded-lg shadow-sm px-6 py-4 cursor-pointer sm:flex sm:justify-between focus:outline-none']">
           <div class="flex items-center">
             <div class="text-sm">
               <RadioGroupLabel as="p" class="font-medium text-gray-900">

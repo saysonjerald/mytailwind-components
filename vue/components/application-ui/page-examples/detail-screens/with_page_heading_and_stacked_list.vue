@@ -366,7 +366,7 @@ import { BellIcon, MenuIcon, XIcon } from '@heroicons/vue/outline'
 
 const user = {
   name: 'Whitney Francis',
-  email: 'whitneyfrancis@example.com',
+  email: 'whitney.francis@example.com',
   imageUrl:
     'https://images.unsplash.com/photo-1517365830460-955ce3ccd263?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
 }
@@ -391,7 +391,7 @@ const tabs = [
 const candidates = [
   {
     name: 'Emily Selman',
-    email: 'emilyselman@example.com',
+    email: 'emily.selman@example.com',
     imageUrl:
       'https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
     applied: 'January 7, 2020',

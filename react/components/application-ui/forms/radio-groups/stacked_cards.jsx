@@ -27,7 +27,7 @@ export default function Example() {
             className={({ checked, active }) =>
               classNames(
                 checked ? 'border-transparent' : 'border-gray-300',
-                active ? 'ring-2 ring-indigo-500' : '',
+                active ? 'border-indigo-500 ring-2 ring-indigo-500' : '',
                 'relative block bg-white border rounded-lg shadow-sm px-6 py-4 cursor-pointer sm:flex sm:justify-between focus:outline-none'
               )
             }
